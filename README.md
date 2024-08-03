@@ -14,6 +14,7 @@
 -->
 
 <h2> / about me /</h2>
+
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
 - 👾 a **20 year old student** working his way around things
