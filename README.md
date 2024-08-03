@@ -27,5 +27,8 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Vue.js'];
 }
 ```
+
+<!--
 ## Contribution Snake 
 ![snake animation](https://github.com/rafael-silvaa/rafael-silvaa/blob/output/github-contribution-grid-snake2.svg)
+-->
