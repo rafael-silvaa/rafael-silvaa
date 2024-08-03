@@ -17,7 +17,7 @@ import SoftwareDeveloper from 'rafael-silvaa';
 class Bio extends SoftwareDeveloper {
   name     = 'Rafael Silva';
   title    = 'Software Developer';
-  company  = 'Pinto & Cruz';
+  company  = 'ISTEC Porto';
   location = 'Porto, Portugal';
 }
 
@@ -30,11 +30,11 @@ class Skills extends SoftwareDeveloper {
 ## Contribution Snake 
 - uses: Platane/snk@v3
   with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
+    <!-- # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user -->
     github_user_name: ${{ github.rafael-silvaa }}
 
-    # list of files to generate.
+    <!-- # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
     #
     #  supported options:
@@ -42,7 +42,7 @@ class Skills extends SoftwareDeveloper {
     #  - color_snake: Color of the snake
     #  - color_dots:  Coma separated list of dots color.
     #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
+    #                 Exactly 5 colors are expected. -->
     outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
