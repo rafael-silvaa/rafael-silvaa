@@ -28,7 +28,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-
+<!--
 ## Contribution Snake 
 ![snake animation](https://github.com/rafael-silvaa/rafael-silvaa/blob/output/github-contribution-grid-snake2.svg)
-
+-->
