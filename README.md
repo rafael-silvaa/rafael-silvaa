@@ -28,6 +28,10 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
+- ⭐ currently working on **web-development**
+- 💀 mostly working on **private repositories**
+- 👾 a **student** working his way around things
+
 <!--
 ## Contribution Snake 
 ![snake animation](https://github.com/rafael-silvaa/rafael-silvaa/blob/output/github-contribution-grid-snake2.svg)
