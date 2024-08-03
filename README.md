@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2EF733&width=435&lines=Hi+there%2C+I'm+Rafael+%F0%9F%91%8B;Computer+Science+Student;Based+in+Porto%2C+Portugal+;Always+looking+to+get+better!)](https://git.io/typing-svg)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -10,23 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-```js
-import SoftwareDeveloper from 'rafael-silvaa';
-
-class Bio extends SoftwareDeveloper {
-  name     = 'Rafael Silva';
-  title    = 'Software Developer';
-  company  = 'ISTEC Porto';
-  location = 'Porto, Portugal';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Vue.js'];
-}
-```
 
 <h2> / about me /</h2>
   
