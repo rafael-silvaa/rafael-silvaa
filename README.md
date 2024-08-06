@@ -48,4 +48,4 @@
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   
 <h2> / contribution snake / </h2> 
-![snake gif](https://github.com/rafael-silvaa/rafael-silvaa/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rafael-silvaa/rafael-silvaa/blob/output/github-contribution-grid-snake.svg)
