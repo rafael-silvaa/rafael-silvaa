@@ -1,8 +1,10 @@
 <h1 align="center">Rafael Silva</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2EF733&width=350&lines=Hi+there%2C+I'm+Rafael+%F0%9F%91%8B;Computer+Science+Student;Based+in+Porto%2C+Portugal+;Always+looking+to+get+better!" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2EF733&width=350&lines=Hi+there%2C+I'm+Rafael+%F0%9F%91%8B;Computer+Science+Student;Based+in+Porto%2C+Portugal+;Always+looking+to+get+better!" alt="Typing SVG" />
+  </a>
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
