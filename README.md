@@ -1,8 +1,8 @@
 <h1 align="center">Rafael Silva</h1>
 
 <h2 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2EF733&width=435&lines=Hi+there%2C+I'm+Rafael+%F0%9F%91%8B;Computer+Science+Student;Based+in+Porto%2C+Portugal;Always+looking+to+get+better!;Welcome+to+my+GitHub+page+%3A))]
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2EF733&width=435&lines=Hi+there%2C+I'm+Rafael+%F0%9F%91%8B;Computer+Science+Student;Based+in+Porto%2C+Portugal;Always+looking+to+get+better!;Welcome+to+my+GitHub+page+%3A)" alt="Typing SVG" /></a>
+</h2>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
