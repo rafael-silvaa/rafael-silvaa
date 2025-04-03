@@ -16,9 +16,9 @@
 
 <h2> / about me /</h2>
 
-- ⭐ currently working on **web-development**
+- ⭐ currently transitioning from **web development** to **cybersecurity | networking student & aspiring penetration tester**
 - 🔐 mostly working on **private repositories**
-- 👾 a **20 year old student** working his way around things
+- 👾 a **21 year old student** working his way around things
   
 <h2> / current skills / </h2>
   
