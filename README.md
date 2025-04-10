@@ -33,15 +33,15 @@
   <img src = "https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt = "bash" />
   <img src = "https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt = "powershell" />
   
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt = "linux" />
-    <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt = "kali-linux" />
-    <img src = "https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt = "wireshark" />
-    <img src = "https://img.shields.io/badge/Metasploit-2F2F2F?style=for-the-badge&logo=metasploit&logoColor=white" alt = "metasploit" />
-    <img src = "https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white" alt = "burp-suite" />
-    <img src = "https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt = "tryhackme" />
-    <img src = "https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt = "htb" />
-    <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
+- <h4> currently learning </h4>
+  <img src = "https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt = "linux" />
+  <img src = "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt = "kali-linux" />
+  <img src = "https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt = "wireshark" />
+  <img src = "https://img.shields.io/badge/Metasploit-2F2F2F?style=for-the-badge&logo=metasploit&logoColor=white" alt = "metasploit" />
+  <img src = "https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white" alt = "burp-suite" />
+  <img src = "https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt = "tryhackme" />
+  <img src = "https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt = "htb" />
+  <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
   
 - <h4> frameworks & libraries </h4>
   <img src = "https://img.shields.io/badge/Nmap-004255?style=for-the-badge&logo=nmap&logoColor=white" alt = "nmap" />
